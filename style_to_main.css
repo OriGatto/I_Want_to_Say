@@ -1,0 +1,34 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=PT+Sans+Narrow:wght@400;700&display=swap');*/
+
+/*favorite*//*@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Great+Vibes&family=Kalam:wght@300;400;700&family=Merienda:wght@300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&family=Tangerine:wght@400;700&display=swap');*/
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Pre:wght@400..700&family=Great+Vibes&family=Kalam:wght@300;400;700&family=Marck+Script&family=Merienda:wght@300..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300..700&family=Tangerine:wght@400;700&display=swap');
+
+body{
+    /*font-family: "PT Sans Narrow", serif;*/
+
+    /*font-family: "Great Vibes", cursive;*/
+
+    font-family: "Marck Script", cursive;
+    font-weight: 500;
+    font-size: 35px;
+    color: rgb(0, 0, 80);
+    font-style: normal;
+    background-image: url(bumVslezah.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/**{
+    padding: 0;
+    margin: 0;
+}*/
+
+.container{
+    width: 500px;
+    height: fit-content;
+}
